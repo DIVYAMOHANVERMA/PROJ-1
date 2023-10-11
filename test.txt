@@ -1,1 +1,2 @@
 Introduction and structure of file  
+changes done on b2
